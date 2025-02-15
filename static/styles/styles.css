@@ -1,0 +1,50 @@
+.header{
+    padding: 5px 120px;
+    width: 150px;
+    height: 70px;
+    background-color:darkcyan;
+}
+
+.border{
+    padding: 80px 50px;
+    width: 400px;
+    height: 450px;
+    border: 1px solid darkcyan;
+    border-radius: 0px;
+    background-color: darkcyan;
+}
+
+.btn{
+    padding: 10px 40px;
+    background-color: darkcyan;
+    color: whitesmoke;
+    font-style: oblique;
+    font-weight: bold;
+    border-radius: 10px;
+}
+
+.textbox{
+    padding: 10px 40px;
+    background-color: darkcyan;
+    color: whitesmoke;
+    border-radius: 10px;
+}
+
+.placeholder{
+    padding: 10px 40px;
+    opacity: 1;
+    font-style: oblique;
+    font-weight: bold;
+}
+
+.word{
+    color: whitesmoke;
+    font-style: oblique;
+    font-weight: bold;
+}
+
+.bottom{
+    color: darkcyan;
+    font-style: oblique;
+    font-weight: bold;
+}
